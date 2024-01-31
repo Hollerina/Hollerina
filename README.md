@@ -2,7 +2,6 @@
 I am Mathematics and Computer Science Graduate from Univerity of Liverpool. My favourite language at the moment is C# but this changes anytime I start a new project in a new language 🤷.
 
 ## Working on ... 💭
-- Advent of Code 2023 --> <a href="https://github.com/Hollerina/Advent-Of-Code">AOC</a> 🎅
 - Algorithm website (Merge Sort) --> <a href="">Algs</a> 
 
 ## Learning ... 📚
@@ -17,6 +16,7 @@ I am Mathematics and Computer Science Graduate from Univerity of Liverpool. My f
 
 ## Favourite Projects ... 💙
 - At the minute I don't have too many completed projects but I really enjoyed creating my <a href="https://holly-portfolio.web.app/">Porfolio Site</a>. 👩‍🎓
+- This is the first time I have done Aoc and managed to complete it. --> <a href="https://github.com/Hollerina/Advent-Of-Code">AOC</a> 🎅
 
 ## Contact Me! 
 You can contact me via my email using my <a href="https://holly-portfolio.web.app/contact-me">Contact Me</a> page on my site
